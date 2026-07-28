@@ -48,11 +48,8 @@ The project combines document processing, semantic search, vector databases, mac
 
 # 🏗️ System Architecture
 
-> Replace the image below with your architecture diagram.
 
-```markdown
-![System Architecture](assets/Architecture.png)
-```
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/e72c6bfb-d453-42d4-bc81-d95ae3ee0868" />
 
 ---
 
